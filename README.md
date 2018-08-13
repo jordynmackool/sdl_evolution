@@ -113,7 +113,7 @@ You can see a detailed list of accepted and implemented proposals for upcoming v
 
 ---
 
-#### SDL RPC Spec: 4.5.0
+#### SDL RPC Spec: 5.0.0
 **Release Date**: October 30, 2017
 
 **Contents**: Release information can be found [here](https://github.com/smartdevicelink/rpc_spec/releases/tag/4.5.0).
